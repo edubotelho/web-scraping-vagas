@@ -6,7 +6,7 @@ Projeto simples criado para estudar web scraping em Python, com foco em aprender
 
 O script acessa uma página de vagas de emprego (site de teste), coleta título, empresa, localização e link de cada vaga, entra em cada uma delas para buscar a descrição completa, e salva tudo organizado em um arquivo CSV.
 
-Desenvolvido a partir de um desafio do [roadmap.sh](https://roadmap.sh/), estudando diretamente a documentação oficial das bibliotecas.
+Desenvolvido a partir de um desafio do [roadmap.sh]([https://roadmap.sh/](https://roadmap.sh/projects/job-listings-scraper)), estudando diretamente a documentação oficial das bibliotecas.
 
 ## Tecnologias utilizadas
 
